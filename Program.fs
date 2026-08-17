@@ -21,8 +21,8 @@ type AvoidancesType = {
 type Student =
     { Name: string
       AvailableSlots: RangeInput list list
-      Preferences: PreferencesType
-      Avoidances: AvoidancesType }
+      Preferences: PreferencesType Skippable
+      Avoidances: AvoidancesType Skippable }
 
 type MappedPreferences =
     { Times: (int * int) Set Option
@@ -79,13 +79,23 @@ let makeStudentsMap (students: Student list) =
         { Name = s.Name
           AvailableSlots = s.AvailableSlots |> mapAvailability |> Set.intersect slotsTuples
           Preferences = {
-            Times = s.Preferences.Times |> mapSkippable listListToSetTuple
-            Days = s.Preferences.Days |> mapSkippable id
+            Times = s.Preferences
+                    |> mapSkippable (fun p -> p.Times |> mapSkippable listListToSetTuple)
+                    |> Option.flatten
+            Days = s.Preferences
+                    |> mapSkippable (fun p -> p.Days |> mapSkippable id)
+                    |> Option.flatten
           }
           Avoidances = {
-            Times = s.Avoidances.Times |> mapSkippable listListToSetTuple
-            Days = s.Avoidances.Days |> mapSkippable id
-          }})
+            Times = s.Avoidances
+                    |> mapSkippable (fun a -> a.Times |> mapSkippable listListToSetTuple)
+                    |> Option.flatten
+            Days = s.Avoidances
+                    |> mapSkippable (fun a -> a.Days |> mapSkippable id)
+                    |> Option.flatten
+          }
+        }
+    )
 
 let orderTimesByLeastConstraint (others: (MappedStudent list)) (slots: Set<int * int>) =
     slots
