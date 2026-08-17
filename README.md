@@ -10,7 +10,7 @@ The algorithm chooses the next student to process based on MRV, and then chooses
 
 ## Sample input.json
 
-In `slots` and `availableSlots` you have a 5-element array (representing each business day), each with an array of time ranges, which are represented by `[start, end]`. Empty days are just a single empty array (not a nested empty one). For preferences and avoidances, these 5-element arrays just contain an array of preferred times (not ranges). Days are 0-indexed to Monday. Day preferences and avoidances are given +/- 10 weight, and times are given +/- 5. Days and times preferences and avoidances are not mutually exclusive, with day meaning any time in the day (so they get a double benefit if it's on the preferred day and time).
+In `slots` and `availableSlots` you have a 5-element array (representing each business day), each with an array of time ranges, which are represented by `[start, end]`. Empty days are just a single empty array (not a nested empty one). For preferences and avoidances, these 5-element arrays just contain an array of preferred times (not ranges). Days are 0-indexed to Monday. Day preferences and avoidances are given +/- 10 weight, and times are given +/- 5. Days and times preferences and avoidances are not mutually exclusive, with day meaning any time in the day (so they get a double benefit if it's on the preferred day and time). Preferences and avoidances do not have to be present.
 
 ```
 {
@@ -22,14 +22,17 @@ In `slots` and `availableSlots` you have a 5-element array (representing each bu
         [[1300, 1700]]
     ],
     "students": [{
-        "name": "Eff Sharp"
+        "name": "Eff Sharp",
         "availableSlots": [
             [[900, 1100], [1300, 1500], [1700, 1900]],
             ...
-        ]
+        ],
         "preferences": {
             "times": [[1000, 1400, 1800], [], [1500], [900], []],
             "days": [0, 1]
+        },
+        "avoidances": {
+            ...
         }
     },
     {
