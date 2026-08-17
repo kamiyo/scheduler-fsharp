@@ -1,0 +1,7 @@
+bin/
+obj/
+
+.fake
+
+input.json
+result.json
