@@ -1,0 +1,36 @@
+[{
+  "Score": 45,
+  "Schedule": [{
+    "Day": 0,
+    "DayName": "Mon",
+    "Slots": [
+      { "Time": 900, "Name": "Zhihan Li", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+      { "Time": 1000, "Name": "Alex Wang", "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 } },
+      { "Time": 1100, "Name": "Qilei Huang", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1300, "Name": "Rui Sima", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1400, "Name": "Zoey Hsieh", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1500, "Name": "Xueyan Duan", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+    ]
+  }, {
+    "Day": 1,
+    "DayName": "Tue",
+    "Slots": [
+      { "Time": 900, "Name": "Mario Chai", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1000, "Name": "Anan Wang", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+      { "Time": 1100, "Name": "Kevin Han", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1300, "Name": "Thanawat Silanon", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1400, "Name": "Yaowen Mei", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+      { "Time": 1500, "Name": "Caleb Moetsch", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+    ]
+  }, {
+    "Day": 2,
+    "DayName": "Wed",
+    "Slots": [
+      { "Time": 900, "Name": "Nathaniel Maxwell", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+      { "Time": 1000, "Name": "Xu Lu", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1100, "Name": "Veronica Smith", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1300, "Name": "Abby Harrison", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+      { "Time": 1400, "Name": "Naren Palomino", "Score": { "Preference": 15, "Avoidance": 0, "Total": 15 } }
+    ]
+  }]
+}]

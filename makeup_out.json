@@ -1,0 +1,700 @@
+[{
+  "Score": 115,
+  "Weeks": [{
+    "Week": 1,
+    "Days": [{
+      "Day": 0,
+      "DayName": "Mon",
+      "Slots": [
+        { "Time": 1000, "Name": "Qilei Huang", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Nathaniel Maxwell", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Thanawat Silanon", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1400, "Name": "Caleb Moetsch", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1500, "Name": "Naren Palomino", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }, {
+      "Day": 1,
+      "DayName": "Tue",
+      "Slots": [
+        { "Time": 900, "Name": "Rui Sima", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1000, "Name": "Zhihan Li", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }, {
+      "Day": 3,
+      "DayName": "Thu",
+      "Slots": [
+        { "Time": 900, "Name": "Anan Wang", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1000, "Name": "Xu Lu", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Veronica Smith", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Zoey Hsieh", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1400, "Name": "Yaowen Mei", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } }
+      ]
+    }, {
+      "Day": 4,
+      "DayName": "Fri",
+      "Slots": [
+        { "Time": 900, "Name": "Abby Harrison", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1000, "Name": "Xueyan Duan", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Kevin Han", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Mario Chai", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }]
+  }, {
+    "Week": 2,
+    "Days": [{
+      "Day": 2,
+      "DayName": "Wed",
+      "Slots": [
+        { "Time": 1000, "Name": "Xu Lu", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Alex Wang", "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 } },
+        { "Time": 1200, "Name": "Rui Sima", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "", "Score": null }
+      ]
+    }, {
+      "Day": 3,
+      "DayName": "Thu",
+      "Slots": [
+        { "Time": 900, "Name": "Anan Wang", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1100, "Name": "Veronica Smith", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Zoey Hsieh", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1400, "Name": "Yaowen Mei", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1500, "Name": "Nathaniel Maxwell", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }, {
+      "Day": 4,
+      "DayName": "Fri",
+      "Slots": [
+        { "Time": 900, "Name": "Abby Harrison", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1000, "Name": "Xueyan Duan", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Kevin Han", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Mario Chai", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }]
+  }, {
+    "Week": 3,
+    "Days": [{
+      "Day": 0,
+      "DayName": "Mon",
+      "Slots": [
+        { "Time": 900, "Name": "Zhihan Li", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1000, "Name": "Qilei Huang", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Alex Wang", "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 } },
+        { "Time": 1300, "Name": "Thanawat Silanon", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1400, "Name": "Caleb Moetsch", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1500, "Name": "Naren Palomino", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }, {
+      "Day": 1,
+      "DayName": "Tue",
+      "Slots": [
+        { "Time": 900, "Name": "", "Score": null },
+        { "Time": 1000, "Name": "Anan Wang", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1100, "Name": "", "Score": null },
+        { "Time": 1300, "Name": "", "Score": null },
+        { "Time": 1400, "Name": "", "Score": null },
+        { "Time": 1500, "Name": "", "Score": null }
+      ]
+    }, {
+      "Day": 2,
+      "DayName": "Wed",
+      "Slots": [
+        { "Time": 900, "Name": "Nathaniel Maxwell", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1000, "Name": "Xu Lu", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Veronica Smith", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Rui Sima", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }, {
+      "Day": 3,
+      "DayName": "Thu",
+      "Slots": [
+        { "Time": 1200, "Name": "Caleb Moetsch", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Zoey Hsieh", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1400, "Name": "Yaowen Mei", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } }
+      ]
+    }, {
+      "Day": 4,
+      "DayName": "Fri",
+      "Slots": [
+        { "Time": 900, "Name": "Abby Harrison", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1000, "Name": "Xueyan Duan", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Kevin Han", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Mario Chai", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }]
+  }, {
+    "Week": 4,
+    "Days": [{
+      "Day": 0,
+      "DayName": "Mon",
+      "Slots": [
+        { "Time": 900, "Name": "Zhihan Li", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1000, "Name": "Qilei Huang", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Alex Wang", "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 } },
+        { "Time": 1300, "Name": "Thanawat Silanon", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1400, "Name": "Caleb Moetsch", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1500, "Name": "Naren Palomino", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }, {
+      "Day": 1,
+      "DayName": "Tue",
+      "Slots": [
+        { "Time": 900, "Name": "", "Score": null },
+        { "Time": 1000, "Name": "Anan Wang", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1100, "Name": "", "Score": null },
+        { "Time": 1300, "Name": "", "Score": null },
+        { "Time": 1400, "Name": "", "Score": null },
+        { "Time": 1500, "Name": "", "Score": null }
+      ]
+    }, {
+      "Day": 2,
+      "DayName": "Wed",
+      "Slots": [
+        { "Time": 900, "Name": "Nathaniel Maxwell", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } },
+        { "Time": 1000, "Name": "Xu Lu", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Alex Wang", "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 } },
+        { "Time": 1300, "Name": "Rui Sima", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1400, "Name": "Naren Palomino", "Score": { "Preference": 15, "Avoidance": 0, "Total": 15 } }
+      ]
+    }, {
+      "Day": 3,
+      "DayName": "Thu",
+      "Slots": [
+        { "Time": 900, "Name": "Qilei Huang", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1000, "Name": "Thanawat Silanon", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Veronica Smith", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Zoey Hsieh", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1400, "Name": "Yaowen Mei", "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 } }
+      ]
+    }, {
+      "Day": 4,
+      "DayName": "Fri",
+      "Slots": [
+        { "Time": 900, "Name": "Abby Harrison", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1000, "Name": "Xueyan Duan", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1100, "Name": "Kevin Han", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } },
+        { "Time": 1300, "Name": "Mario Chai", "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 } }
+      ]
+    }]
+  }],
+  "Students": [{
+    "Student": "Abby Harrison",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 900,
+      "When": "Week 1, Fri 900",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 900,
+      "When": "Week 2, Fri 900",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 900,
+      "When": "Week 3, Fri 900",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 900,
+      "When": "Week 4, Fri 900",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Alex Wang",
+    "Sessions": [{
+      "Week": 2,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1100,
+      "When": "Week 2, Wed 1100",
+      "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 }
+    }, {
+      "Week": 3,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1100,
+      "When": "Week 3, Mon 1100",
+      "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 }
+    }, {
+      "Week": 4,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1100,
+      "When": "Week 4, Mon 1100",
+      "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 }
+    }, {
+      "Week": 4,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1100,
+      "When": "Week 4, Wed 1100",
+      "Score": { "Preference": 10, "Avoidance": 0, "Total": 10 }
+    }]
+  }, {
+    "Student": "Anan Wang",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 900,
+      "When": "Week 1, Thu 900",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }, {
+      "Week": 2,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 900,
+      "When": "Week 2, Thu 900",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }, {
+      "Week": 3,
+      "Day": 1,
+      "DayName": "Tue",
+      "Time": 1000,
+      "When": "Week 3, Tue 1000",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }, {
+      "Week": 4,
+      "Day": 1,
+      "DayName": "Tue",
+      "Time": 1000,
+      "When": "Week 4, Tue 1000",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }]
+  }, {
+    "Student": "Caleb Moetsch",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1400,
+      "When": "Week 1, Mon 1400",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1400,
+      "When": "Week 3, Mon 1400",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1200,
+      "When": "Week 3, Thu 1200",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1400,
+      "When": "Week 4, Mon 1400",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Kevin Han",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1100,
+      "When": "Week 1, Fri 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1100,
+      "When": "Week 2, Fri 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1100,
+      "When": "Week 3, Fri 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1100,
+      "When": "Week 4, Fri 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Mario Chai",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1300,
+      "When": "Week 1, Fri 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1300,
+      "When": "Week 2, Fri 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1300,
+      "When": "Week 3, Fri 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1300,
+      "When": "Week 4, Fri 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Naren Palomino",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1500,
+      "When": "Week 1, Mon 1500",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1500,
+      "When": "Week 3, Mon 1500",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1500,
+      "When": "Week 4, Mon 1500",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1400,
+      "When": "Week 4, Wed 1400",
+      "Score": { "Preference": 15, "Avoidance": 0, "Total": 15 }
+    }]
+  }, {
+    "Student": "Nathaniel Maxwell",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1100,
+      "When": "Week 1, Mon 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1500,
+      "When": "Week 2, Thu 1500",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 900,
+      "When": "Week 3, Wed 900",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }, {
+      "Week": 4,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 900,
+      "When": "Week 4, Wed 900",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }]
+  }, {
+    "Student": "Qilei Huang",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1000,
+      "When": "Week 1, Mon 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1000,
+      "When": "Week 3, Mon 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1000,
+      "When": "Week 4, Mon 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 900,
+      "When": "Week 4, Thu 900",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Rui Sima",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 1,
+      "DayName": "Tue",
+      "Time": 900,
+      "When": "Week 1, Tue 900",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1200,
+      "When": "Week 2, Wed 1200",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1300,
+      "When": "Week 3, Wed 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1300,
+      "When": "Week 4, Wed 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Thanawat Silanon",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1300,
+      "When": "Week 1, Mon 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1300,
+      "When": "Week 3, Mon 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 1300,
+      "When": "Week 4, Mon 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1000,
+      "When": "Week 4, Thu 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Veronica Smith",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1100,
+      "When": "Week 1, Thu 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1100,
+      "When": "Week 2, Thu 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1100,
+      "When": "Week 3, Wed 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1100,
+      "When": "Week 4, Thu 1100",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Xu Lu",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1000,
+      "When": "Week 1, Thu 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1000,
+      "When": "Week 2, Wed 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1000,
+      "When": "Week 3, Wed 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 2,
+      "DayName": "Wed",
+      "Time": 1000,
+      "When": "Week 4, Wed 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Xueyan Duan",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1000,
+      "When": "Week 1, Fri 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1000,
+      "When": "Week 2, Fri 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1000,
+      "When": "Week 3, Fri 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 4,
+      "DayName": "Fri",
+      "Time": 1000,
+      "When": "Week 4, Fri 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }, {
+    "Student": "Yaowen Mei",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1400,
+      "When": "Week 1, Thu 1400",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }, {
+      "Week": 2,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1400,
+      "When": "Week 2, Thu 1400",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }, {
+      "Week": 3,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1400,
+      "When": "Week 3, Thu 1400",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }, {
+      "Week": 4,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1400,
+      "When": "Week 4, Thu 1400",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }]
+  }, {
+    "Student": "Zhihan Li",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 1,
+      "DayName": "Tue",
+      "Time": 1000,
+      "When": "Week 1, Tue 1000",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 900,
+      "When": "Week 3, Mon 900",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }, {
+      "Week": 4,
+      "Day": 0,
+      "DayName": "Mon",
+      "Time": 900,
+      "When": "Week 4, Mon 900",
+      "Score": { "Preference": 5, "Avoidance": 0, "Total": 5 }
+    }]
+  }, {
+    "Student": "Zoey Hsieh",
+    "Sessions": [{
+      "Week": 1,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1300,
+      "When": "Week 1, Thu 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 2,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1300,
+      "When": "Week 2, Thu 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 3,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1300,
+      "When": "Week 3, Thu 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }, {
+      "Week": 4,
+      "Day": 3,
+      "DayName": "Thu",
+      "Time": 1300,
+      "When": "Week 4, Thu 1300",
+      "Score": { "Preference": 0, "Avoidance": 0, "Total": 0 }
+    }]
+  }]
+}]

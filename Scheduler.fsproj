@@ -6,11 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Common.fs" />
+    <Compile Include="Scheduler.fs" />
+    <Compile Include="Solver.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Argu" Version="6.2.5" />
     <PackageReference Include="FSharp.SystemTextJson" Version="1.4.36" />
+    <PackageReference Include="Google.OrTools" Version="9.15.6755" />
   </ItemGroup>
 
 </Project>

@@ -3,5 +3,9 @@ obj/
 
 .fake
 
-input.json
+input*.json
 result.json
+labor.json
+new.json
+out*.json
+repair.json
