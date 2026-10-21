@@ -9,3 +9,5 @@ labor.json
 new.json
 out*.json
 repair.json
+
+.clj-kondo
