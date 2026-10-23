@@ -3,11 +3,14 @@ obj/
 
 .fake
 
-input*.json
-result.json
-labor.json
-new.json
-out*.json
-repair.json
+*input*.json
+*result*.json
+*labor*.json
+*new*.json
+*out*.json
+*repair*.json
+*makeup*.json
 
 .clj-kondo
+
+*.html
